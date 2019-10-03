@@ -1,0 +1,28 @@
+span {
+    font-size: 72px;
+    margin: 12px;
+}
+
+.classAdje {
+    color: orange;
+}
+.classNoun {
+    color: lightslategray;
+}
+
+button {
+    background-color: lightslategray;
+    color: orange;
+}
+
+.bigButton {
+    font-size: 72px;
+}
+
+.hide {
+    opacity: 0;
+}
+
+h1 {
+    color: lightslategray;
+}
